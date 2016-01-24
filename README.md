@@ -5,6 +5,7 @@ look at doc:http://docs.kali.org/
 
 install flashplayer
 # apt-get install flashplugin-nonfree
+#update-flashplugin-nonfree --install
 
 install chrome
 download chrome
